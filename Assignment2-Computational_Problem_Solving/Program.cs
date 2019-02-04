@@ -6,7 +6,7 @@ namespace Assignment2_Computational_Problem_Solving
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Welcome to the second Assignment :)");
         }
     }
 }
